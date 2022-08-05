@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    background-image: url("/public/imagens/fundo.png");
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-color: #6278F7;
+}
+
+.lista{
+    display: flex;
+    list-style: none;
+}
+
+.lista li a{
+    margin: 0 23px;
+}
+
+.texto{
+    color: #fff;
+}
